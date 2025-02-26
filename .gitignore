@@ -1,0 +1,5 @@
+*.pth
+events.out.tfevents.*
+*.pyc
+*.txt
+experiment_results/**/*.png
